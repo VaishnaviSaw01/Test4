@@ -121,14 +121,6 @@ Features:
 
 ---
 
-## ⚠️ Important Notes
-
-- node_modules is ignored
-- Use your own MongoDB credentials
-- Do not expose database passwords publicly
-
----
-
 ## 👨‍💻 Author
 
 Vaishnavi
